@@ -14,12 +14,34 @@ Each researched game is its own level-two section (##) and a bullet list of prop
 
 Properties: 
 
-- **Solo Rules**: Either "Not Found", "Included", or a link to rules. When searching for links to rules, check the publisher first for official rules.
+- **Solo Rules**: Either "Not Found", "Included" for games which natively allow solo play, or a link to rules.
 - **How to Play**: Link to a YouTube video, or "Not Found". Note that "playthrough" videos are different and not wanted.
 - **User Notes**: Purely manually maintained. Do not add this property, and do not modify it if you encounter it.
 - **Researched**: Date this game was researched, in M/D/YYYY format. When you are doing the research, set this to today's date.
 
 After the researched games, there is a simple list of games which have not yet been researched. Do not change this list, except to alphabetize it.
+
+### Research Sequence
+
+1. Determine the publisher of the game
+2. Search the publisher's site for any needed information
+3. If you still need information about Solo Rules: Check Board Game Geek
+4. If you still need a How To Play link:
+   a. Search for videos FROM the Watch It Played channel: "@WatchItPlayed GAME_NAME"
+   b. If Watch It Played doesn't have coverage: Search "GAME_NAME how to play tutorial"
+   c. Check Board Game Geek's video section for the game
+   d. Check the publisher's official YouTube channel
+
+If you still have not definitively found everything you need, use more general research methods.
+
+### Video Selection Criteria
+
+When selecting a "How to Play" video:
+- Prefer instructional/tutorial videos over playthrough videos
+- Prefer official publisher videos or established tutorial channels (Watch It Played, Rodney Smith, Board Game Tutorials, etc.)
+- The video should explain rules and setup, not just show gameplay
+- If multiple good options exist, prefer shorter, clearer tutorials
+- If no good tutorial video exists after thorough searching, mark as "Not Found"
 
 ### Examples
 
@@ -57,6 +79,8 @@ Blumpskins is a hypothetical game which has been researched, but for which no in
 
 These are high quality and trustworthy sources:
 
-- [Board Game Geek](https://boardgamegeek.com): Excellent overall resources, including forums
-- [Watch It Played](https://www.youtube.com/@WatchItPlayed): YouTube channel with great "How To Play" videos
-- Publisher Sites
+- Publisher Sites: Publishers often provide solo rules or links to authoritative How To Play videos.
+- [Board Game Geek](https://boardgamegeek.com): Excellent overall resources, including forums. Note you will not be able to download files like PDFs, but if a file link is the best you can do for solo rules it is still worth including.
+- [Watch It Played](https://www.youtube.com/@WatchItPlayed): YouTube channel with great "How To Play" videos.
+
+You may use other sites too if needed. Reddit is sometimes helpful.
