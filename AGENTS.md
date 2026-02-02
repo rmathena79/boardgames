@@ -97,16 +97,6 @@ Ticket to Ride is a game with official solo rules and an official tutorial video
 **Researched**: 1/31/2026
 ```
 
-Catan is an example of partial data found via tools:
-
-```
-## Catan
-
-**Solo Rules**: https://boardgamegeek.com/filepage/215972/siedler-a-catan-solo-mode
-**How to Play**: Not Found (after thorough search)
-**Researched**: 1/31/2026
-```
-
 ### Guidance
 
 - Keep the games alphabetized
@@ -115,7 +105,7 @@ Catan is an example of partial data found via tools:
 - If research is incomplete after all steps, proceed with available data and mark unknowns as 'Not Found'
 - Use the most common game name for searches; ignore expansions unless specified
 - Use the date in M/D/YYYY format, e.g., 1/31/2026 for today
-- If a tool fails after 2 attempts, mark as 'Not Found' and proceed. Limit research per game to 10 minutes to avoid loops.
+- If a tool fails after 2 attempts, mark as 'Not Found' and proceed. Limit research per game to 6 minutes to avoid loops.
 - For videos, if no official/tutorial found, check publisher YouTube channels via search (e.g., 'Catan Studio YouTube how to play').
 - Keep editorializing and meta-data in the report to a minimum; it is meant to be quite concise.
 - Maintain property order
